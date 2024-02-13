@@ -5,8 +5,8 @@ const titles = {
 }
 
 const links = {
-    no: '/media/fight.gif',
-    yes: '/media/kiss.gif'
+    no: 'media/fight.gif',
+    yes: 'media/kiss.gif'
 }
 
 let noWasClicked = false;
